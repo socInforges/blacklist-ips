@@ -4,7 +4,7 @@ Este repositorio contiene una lista negra de direcciones IP que pueden ser utili
 
 ## 📥 URL Cruda para Integración
 
-Utiliza la siguiente URL en Fortinet (FortiGate o FortiSOAR): https://raw.githubusercontent.com/socInforges/blacklist-ips/main/blacklist.txt
+Utiliza la siguiente URL en Fortinet (FortiGate o FortiSOAR): https://raw.githubusercontent.com/socInforges/blacklist-ips/refs/heads/main/blacklist.txt
 
 ## 📋 Formato del archivo
 
